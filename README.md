@@ -2,4 +2,5 @@
 
 # steps:
 
-> created `dev` branch.
+ - created `dev` branch.
+ - created `add-quotes` & `fix-quotes` branches.
